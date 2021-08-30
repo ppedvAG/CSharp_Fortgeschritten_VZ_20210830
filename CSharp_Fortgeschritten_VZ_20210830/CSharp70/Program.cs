@@ -44,12 +44,14 @@ namespace CSharp70
 
 
             string name = "Muster";
+            string vorname = "Alf";
             int alter1 = 20;
 
             // Aus mehreren Variablen initialisieren wir ein Object
 
             //Variablen werden im Konstruktor den Member Variablen zugewiesen
-            Person p = new Person(name, alter1);
+            Person p = new Person(vorname, name, alter1);
+
 
 
 
@@ -73,6 +75,14 @@ namespace CSharp70
 
             float myFloatVariable = 123.23f;
             Console.WriteLine(myFloatVariable);
+
+            int[] zahlen = { 5, 6, 7, 8, 9, 10 };
+
+            ref int returnValue = ref Zahlensuche(9, zahlen);
+            returnValue = 123;
+            Console.WriteLine("Ausgabe des Zahlen-Arrays");
+            foreach (int i in zahlen)
+                Console.WriteLine(i);
         }
 
         private static void WerteTypÄndern (int i) //i ist die Kopie und hat einen eigenen Speicherplatz 
@@ -136,8 +146,17 @@ namespace CSharp70
             }
         }
 
+        public static ref int Zahlensuche(int gesuchteZahl, int[] zahlen)
+        {
+            for (int i = 0; i < zahlen.Length; i++)
+            {
+                if (zahlen[i] == gesuchteZahl)
+                    return ref zahlen[i];
+            }
 
-        
+            throw new IndexOutOfRangeException();
+        }
+
     }
 
 
@@ -155,6 +174,8 @@ namespace CSharp70
 
         }
 
+        public Person (int Alter) => this.Alter = Alter;
+
         public Person(string Vorname, string Name, int Alter)
         {
             this.Name = Name;
@@ -165,6 +186,15 @@ namespace CSharp70
 
         public (string Vorname, string Name, int Alter) TupelAusgabePeron ()
         {
+            if (Vorname == "abc")
+            {
+                //Mehrzeilig 
+            }
+
+            if (Name == "abc")
+                Console.WriteLine(Name);
+
+
             return (Vorname, Name, Alter);
         }
 
@@ -186,6 +216,7 @@ namespace CSharp70
         public void TestMethode(out int Alter, out string Nachname)
         {
             Alter = this.Alter;
+            Nachname = this.Name;
         }
     }
 }
