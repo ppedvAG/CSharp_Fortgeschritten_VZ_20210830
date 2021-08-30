@@ -1,0 +1,8 @@
+Zugriff-Modifier: 
+https://docs.microsoft.com/de-de/dotnet/csharp/programming-guide/classes-and-structs/access-modifiers
+
+
+Top-Level Statements in WebAPI in NET 6 (ab November released)
+https://devblogs.microsoft.com/aspnet/asp-net-core-updates-in-net-6-preview-4/
+
+LTS Version = Long Term Support = 3 Jahre 
