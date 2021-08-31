@@ -13,7 +13,7 @@ Dienstag
 - [ ] Threading
 - [ ] TPL
 - [ ] async / await
-- [ ] Generics + Lab
+- [ ] Generics
 - [ ] Events / EventHandler/ Actions / Func
 
 

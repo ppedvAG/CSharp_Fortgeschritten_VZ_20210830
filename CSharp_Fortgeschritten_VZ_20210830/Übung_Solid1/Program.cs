@@ -11,6 +11,8 @@ namespace Übung_Solid1
     }
 
 
+    #region Bad Code
+
     public class BadEmployee
     {
         public int Employee_Id { get; set; }
@@ -47,7 +49,64 @@ namespace Übung_Solid1
         }
     }
 
-   
+    #endregion
+
+
+
+
+    #region Variante 1
+    //Lösung
+    #region Datenstruktur
+    public class Employee
+    {
+        public int Employee_Id { get; set; }
+        public string Employee_Name { get; set; }
+    }
+    #endregion
+
+    #region Wäre auch mit Repository ok
+    public interface IRepository
+    {
+        bool InsertIntoEmployeeTable(Employee em);
+    }
+
+    public class EmployeeRepository : IRepository
+    {
+        public bool InsertIntoEmployeeTable(Employee em)
+        {
+            throw new NotImplementedException();
+        }
+    }
+    #endregion
+
+
+
+    #region ReportGenerator 
+    public abstract class ReportGeneratorBase
+    {
+        public abstract void GenerateReport(Employee em);
+    }
+
+    public class PDFReport : ReportGeneratorBase
+    {
+        public override void GenerateReport(Employee em)
+        {
+            //....
+        }
+    }
+
+    public class CRSReport : ReportGeneratorBase
+    {
+        public override void GenerateReport(Employee em)
+        {
+            //....
+        }
+    }
+
+    #endregion
+    #endregion
+
+
 
 
 
