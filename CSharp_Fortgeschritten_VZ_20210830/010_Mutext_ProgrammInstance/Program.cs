@@ -22,19 +22,28 @@ namespace _010_Mutext_ProgrammInstance
 
         static bool IsSingleInstance()
         {
-            try
+
+            if (Mutex.TryOpenExisting("ABC", out _mutex))
             {
-                Mutex.OpenExisting("ABC");
+                return false;
             }
-            catch
-            {
-                Program._mutex = new Mutex(true, "ABC"); //ERste Programm Instanz legt instanziiert das Mutex Object
-                return true;
-            }
+            else
+                return true; 
 
 
-            //Zweite Programm Instance verlässt hier die Methode. 
-            return false; 
+            //try
+            //{
+            //    Mutex.OpenExisting("ABC");
+            //}
+            //catch
+            //{
+            //    Program._mutex = new Mutex(true, "ABC"); //ERste Programm Instanz legt instanziiert das Mutex Object
+            //    return true;
+            //}
+
+
+            ////Zweite Programm Instance verlässt hier die Methode. 
+            //return false; 
         }
     }
 }

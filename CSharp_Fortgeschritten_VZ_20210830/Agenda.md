@@ -10,11 +10,11 @@ Montag
 
 
 Dienstag
-- [ ] Threading
-- [ ] TPL
-- [ ] async / await
+- [x] Threading
+- [x] TPL
+- [x] async / await
 - [ ] Generics
-- [ ] Events / EventHandler/ Actions / Func
+- [x] Events / EventHandler/ Actions / Func
 
 
 Mittwoch:
