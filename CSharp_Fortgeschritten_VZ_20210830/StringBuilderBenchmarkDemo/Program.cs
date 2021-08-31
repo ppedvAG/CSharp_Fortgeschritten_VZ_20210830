@@ -17,10 +17,10 @@ namespace StringBuilderBenchmarkDemo
             //  -> [H][A][L][L][O] + "Welt";
 
 
-            //1.) Legt er einen festern Bereich (9 Zeichen) an (dieser kann erweitert werden) (string in Memory) 
-
+            //1.) Legt er einen festern Bereich (10 Zeichen) an (dieser kann erweitert werden) (string in Memory) 
+            
             //2.) Er kopiet von der alten Speicheradresse den alten String rüber -> [H][A][L][L][O]
-            //3.) Er fügt den neuen String auch an : [H][A][L][L][O] [W][E][L][T]
+            //3.) Er fügt den neuen String auch an : [H][A][L][L][O][_] [W][E][L][T]
 
 
             //string hat im arbeitsspeicher eine feste größe, die sich nach der definition nicht mehr erweitern lässt
