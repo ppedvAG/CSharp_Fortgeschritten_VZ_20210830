@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iYJ6PqWf3GE9iJmVQPj2o/KuME/PrPu0ZIZ/GHaEQUnmQdloxL9tUBRDwhJwFBNm/Z86NcHSIZV6Vw5qRdQtkQ==",
+  "dgSpecHash": "H6XM+s9S18kCQgAIWJbqMndJmeW6z9CbCJnfKSe2vx/Pn/9iDFEDlKF1sp8Giwoe8y8eBqH4qnIP3e7sx8qzag==",
   "success": true,
   "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_VZ_20210830\\CSharp_Fortgeschritten_VZ_20210830\\TheDataLayer\\TheDataLayer.csproj",
   "expectedPackageFiles": [
@@ -10,7 +10,6 @@
     "C:\\Users\\kw4\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.9\\microsoft.entityframeworkcore.5.0.9.nupkg.sha512",
     "C:\\Users\\kw4\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.9\\microsoft.entityframeworkcore.abstractions.5.0.9.nupkg.sha512",
     "C:\\Users\\kw4\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.9\\microsoft.entityframeworkcore.analyzers.5.0.9.nupkg.sha512",
-    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\5.0.9\\microsoft.entityframeworkcore.inmemory.5.0.9.nupkg.sha512",
     "C:\\Users\\kw4\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.9\\microsoft.entityframeworkcore.relational.5.0.9.nupkg.sha512",
     "C:\\Users\\kw4\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.9\\microsoft.entityframeworkcore.sqlserver.5.0.9.nupkg.sha512",
     "C:\\Users\\kw4\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",

@@ -25,6 +25,8 @@ Mittwoch:
 - [ ] Erweiterungsmethoden  
 - [ ] Operatoren
 - [ ] Anonyme Typen + dynamische Typen 
+- [ ] 
+
 
 
 

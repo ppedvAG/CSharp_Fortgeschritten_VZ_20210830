@@ -143,7 +143,7 @@
             this.pictureBox1.Image = global::HalloAsync.Properties.Resources._3;
             this.pictureBox1.Location = new System.Drawing.Point(307, 244);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(479, 279);
+            this.pictureBox1.Size = new System.Drawing.Size(528, 315);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 6;
             this.pictureBox1.TabStop = false;
@@ -164,7 +164,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 32F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Window;
-            this.ClientSize = new System.Drawing.Size(805, 541);
+            this.ClientSize = new System.Drawing.Size(854, 577);
             this.Controls.Add(this.meinButton1);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.button6);

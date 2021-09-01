@@ -1,0 +1,11 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\HelloReflections\bin\Debug\net5.0\Taschenrechner.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\HelloReflections\bin\Debug\net5.0\Taschenrechner.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\HelloReflections\bin\Debug\net5.0\ref\Taschenrechner.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\HelloReflections\bin\Debug\net5.0\Taschenrechner.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\Taschenrechner\obj\Debug\net5.0\Taschenrechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\Taschenrechner\obj\Debug\net5.0\Taschenrechner.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\Taschenrechner\obj\Debug\net5.0\Taschenrechner.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\Taschenrechner\obj\Debug\net5.0\Taschenrechner.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\Taschenrechner\obj\Debug\net5.0\Taschenrechner.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\Taschenrechner\obj\Debug\net5.0\ref\Taschenrechner.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\Taschenrechner\obj\Debug\net5.0\Taschenrechner.pdb
