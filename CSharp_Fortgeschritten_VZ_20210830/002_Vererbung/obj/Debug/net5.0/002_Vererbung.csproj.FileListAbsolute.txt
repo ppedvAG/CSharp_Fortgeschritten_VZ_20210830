@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\002_Vererbung\bin\Debug\net5.0\002_Vererbung.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\002_Vererbung\bin\Debug\net5.0\002_Vererbung.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\002_Vererbung\bin\Debug\net5.0\002_Vererbung.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\002_Vererbung\bin\Debug\net5.0\002_Vererbung.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\002_Vererbung\bin\Debug\net5.0\002_Vererbung.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\002_Vererbung\bin\Debug\net5.0\ref\002_Vererbung.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\002_Vererbung\bin\Debug\net5.0\002_Vererbung.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\002_Vererbung\obj\Debug\net5.0\002_Vererbung.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\002_Vererbung\obj\Debug\net5.0\002_Vererbung.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\002_Vererbung\obj\Debug\net5.0\002_Vererbung.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\002_Vererbung\obj\Debug\net5.0\002_Vererbung.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\002_Vererbung\obj\Debug\net5.0\002_Vererbung.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\002_Vererbung\obj\Debug\net5.0\ref\002_Vererbung.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\002_Vererbung\obj\Debug\net5.0\002_Vererbung.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\002_Vererbung\obj\Debug\net5.0\002_Vererbung.genruntimeconfig.cache

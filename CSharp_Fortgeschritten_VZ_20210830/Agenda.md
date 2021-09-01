@@ -18,14 +18,21 @@ Dienstag:
 
 
 Mittwoch:
-- [ ] Reflections 
-- [ ] Plugin-Pattern 
-- [ ] Serialisierung
-- [ ] Linq / Lambda 
-- [ ] Erweiterungsmethoden  
-- [ ] Operatoren
-- [ ] Anonyme Typen + dynamische Typen 
-- [ ] 
+- [x] Reflections 
+- [x] Plugin-Pattern 
+- [x] Serialisierung
+- [x] Linq / Lambda 
+- [x] Erweiterungsmethoden  
+- [x] Operatoren
+- [x] Anonyme Typen + dynamische Typen 
+
+
+- [ ] OOP -> Crashkurs
+- [ ] StructVsClasses 
+- [ ] oder WebAPI 
+- [ ] .NET 6 Vorblick -> mit Beispielen 
+- [ ] Evolution von DesignPatterns -> Builder-Pattern oder Singleton 
+- 
 
 
 

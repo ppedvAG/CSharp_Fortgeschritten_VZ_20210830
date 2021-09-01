@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nneBpFjfyhXzCP3LIRq8LjAYwTtX9MkoJrkdGmOMeOzBwRE+8RbxiddMsgjd44ASVZS1/jP3yzdTSNNuxVfm8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\CSharp_Fortgeschritten_VZ_20210830\\CSharp_Fortgeschritten_VZ_20210830\\Serialialisierung_ExtentionMethods\\Serialialisierung_ExtentionMethods.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

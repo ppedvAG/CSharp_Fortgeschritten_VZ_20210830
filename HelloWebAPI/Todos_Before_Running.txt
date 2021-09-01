@@ -1,0 +1,21 @@
+1.) HelloWebAPI -> appSettings.json -> ConnectionString anpassen (Beispiel arbeitet mit der LocalDb) (SQL Server kann man auch benutzen)
+
+2.) Visual Studio 2019 -> Tools -> Package Manager -> Package Manager Console 
+
+
+
+3.) Update-Database 
+
+//Andere Möglichkeit
+3.1) Bei anderen DB Typen (SQLite) -> Add-DBContext -context HelloWebAPI.Data.MovieStoreDbContext
+3.2) Update-Database 
+
+!!!!SOlution muss sauber kompilierbar -> wenn nicht -> bei Punkt bekommen wir den Fehler "Build Failure"
+
+
+4. Testlauf -> Rechtsklick auf Solution -> Set Startup Projects 
+4.1 Select Multiple Startup Projects
+
+!!! 4.2 WebAPI Projekt muss in der Liste ganz nach oben (danach folgend der Client) 
+4.3 Beide müssen die Actions aus Starten gesetzt werden 
+

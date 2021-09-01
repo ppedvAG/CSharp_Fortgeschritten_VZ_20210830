@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Fuhrpark_OOP_Sample/1.0.0": {
+        "runtime": {
+          "Fuhrpark_OOP_Sample.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fuhrpark_OOP_Sample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

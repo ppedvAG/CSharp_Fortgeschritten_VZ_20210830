@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\ClassSample\bin\Debug\net5.0\ClassSample.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\ClassSample\bin\Debug\net5.0\ClassSample.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\ClassSample\bin\Debug\net5.0\ClassSample.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\ClassSample\bin\Debug\net5.0\ClassSample.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\ClassSample\bin\Debug\net5.0\ClassSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\ClassSample\bin\Debug\net5.0\ref\ClassSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\ClassSample\bin\Debug\net5.0\ClassSample.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\ClassSample\obj\Debug\net5.0\ClassSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\ClassSample\obj\Debug\net5.0\ClassSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\ClassSample\obj\Debug\net5.0\ClassSample.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\ClassSample\obj\Debug\net5.0\ClassSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\ClassSample\obj\Debug\net5.0\ClassSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\ClassSample\obj\Debug\net5.0\ref\ClassSample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\ClassSample\obj\Debug\net5.0\ClassSample.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\ClassSample\obj\Debug\net5.0\ClassSample.genruntimeconfig.cache
