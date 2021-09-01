@@ -1,0 +1,17 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\TheDataLayer\bin\Debug\net5.0\TheDataLayer.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\TheDataLayer\bin\Debug\net5.0\TheDataLayer.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\TheDataLayer\bin\Debug\net5.0\ref\TheDataLayer.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\TheDataLayer\bin\Debug\net5.0\TheDataLayer.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\TheDataLayer\bin\Debug\net5.0\EFRepositorySample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\TheDataLayer\bin\Debug\net5.0\GenericRepositorySample.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\TheDataLayer\bin\Debug\net5.0\EFRepositorySample.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\TheDataLayer\bin\Debug\net5.0\GenericRepositorySample.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\TheDataLayer\obj\Debug\net5.0\TheDataLayer.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\TheDataLayer\obj\Debug\net5.0\TheDataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\TheDataLayer\obj\Debug\net5.0\TheDataLayer.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\TheDataLayer\obj\Debug\net5.0\TheDataLayer.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\TheDataLayer\obj\Debug\net5.0\TheDataLayer.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\TheDataLayer\obj\Debug\net5.0\TheDataLayer.csproj.CopyComplete
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\TheDataLayer\obj\Debug\net5.0\TheDataLayer.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\TheDataLayer\obj\Debug\net5.0\ref\TheDataLayer.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\TheDataLayer\obj\Debug\net5.0\TheDataLayer.pdb

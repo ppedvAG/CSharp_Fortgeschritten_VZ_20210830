@@ -3,17 +3,17 @@ Email: KevinW@ppedv.de
 
 Themen
 
-Montag
+Montag:
 - [x] C# 7.0 -> 9.0 
 - [x] Solid 
 - [x] Benchmark StringBuilder vs +-Operator (bei strings)
 
 
-Dienstag
+Dienstag:
 - [x] Threading
 - [x] TPL
 - [x] async / await
-- [ ] Generics
+- [x] Generics
 - [x] Events / EventHandler/ Actions / Func
 
 

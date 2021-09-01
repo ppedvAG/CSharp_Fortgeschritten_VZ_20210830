@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\AsyncAwaitSampe\bin\Debug\net5.0\AsyncAwaitSampe.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\AsyncAwaitSampe\bin\Debug\net5.0\AsyncAwaitSampe.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\AsyncAwaitSampe\bin\Debug\net5.0\AsyncAwaitSampe.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\AsyncAwaitSampe\bin\Debug\net5.0\AsyncAwaitSampe.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\AsyncAwaitSampe\bin\Debug\net5.0\AsyncAwaitSampe.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\AsyncAwaitSampe\bin\Debug\net5.0\ref\AsyncAwaitSampe.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\AsyncAwaitSampe\bin\Debug\net5.0\AsyncAwaitSampe.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\AsyncAwaitSampe\obj\Debug\net5.0\AsyncAwaitSampe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\AsyncAwaitSampe\obj\Debug\net5.0\AsyncAwaitSampe.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\AsyncAwaitSampe\obj\Debug\net5.0\AsyncAwaitSampe.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\AsyncAwaitSampe\obj\Debug\net5.0\AsyncAwaitSampe.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\AsyncAwaitSampe\obj\Debug\net5.0\AsyncAwaitSampe.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\AsyncAwaitSampe\obj\Debug\net5.0\ref\AsyncAwaitSampe.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\AsyncAwaitSampe\obj\Debug\net5.0\AsyncAwaitSampe.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\AsyncAwaitSampe\obj\Debug\net5.0\AsyncAwaitSampe.genruntimeconfig.cache

@@ -5,7 +5,6 @@ C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_2
 C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\CSharp80\bin\Debug\net5.0\CSharp80.dll
 C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\CSharp80\bin\Debug\net5.0\ref\CSharp80.dll
 C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\CSharp80\bin\Debug\net5.0\CSharp80.pdb
-C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\CSharp80\obj\Debug\net5.0\CSharp80.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\CSharp80\obj\Debug\net5.0\CSharp80.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\CSharp80\obj\Debug\net5.0\CSharp80.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\CSharp80\obj\Debug\net5.0\CSharp80.AssemblyInfo.cs

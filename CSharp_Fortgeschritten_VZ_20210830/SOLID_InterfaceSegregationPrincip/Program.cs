@@ -138,5 +138,5 @@ namespace SOLID_InterfaceSegregationPrincip
             throw new NotImplementedException();
         }
     }
-    #region
+    #endregion
 }

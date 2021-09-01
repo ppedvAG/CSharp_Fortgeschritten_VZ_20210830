@@ -5,7 +5,6 @@ C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_2
 C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\007_LockSample\bin\Debug\net5.0\007_LockSample.dll
 C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\007_LockSample\bin\Debug\net5.0\ref\007_LockSample.dll
 C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\007_LockSample\bin\Debug\net5.0\007_LockSample.pdb
-C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\007_LockSample\obj\Debug\net5.0\007_LockSample.csproj.AssemblyReference.cache
 C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\007_LockSample\obj\Debug\net5.0\007_LockSample.GeneratedMSBuildEditorConfig.editorconfig
 C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\007_LockSample\obj\Debug\net5.0\007_LockSample.AssemblyInfoInputs.cache
 C:\Aktueller Kurs\CSharp_Fortgeschritten_VZ_20210830\CSharp_Fortgeschritten_VZ_20210830\007_LockSample\obj\Debug\net5.0\007_LockSample.AssemblyInfo.cs
